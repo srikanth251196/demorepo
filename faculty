@@ -1,0 +1,39 @@
+<html>
+ <head>
+  <title>Our Faculty</title>
+ </head>
+ <body bgcolor="#B6E2F9">
+  <img src="images\logo.jpg" width="100%" height="250">
+  <marquee bgcolor="#97D6F8">All the Final Year Students are hereby informed to clear their semester fees on or before 25<sup>th</th> of this month.</marquee>
+  <h3 align="center">
+   <a href="home.html">Home</a> | <a href="courses.html">Courses</a> | <a href="faculty.html">Faculty</a> | <a href="facility.html">Facilities </a> | <a href="events.html">Events</a> | <a href="contactus.html">Contact Us</a>
+  </h3>
+  <hr color="blue" size="3">
+
+  <h3 align='center'>Our Faculty</h3>
+  <p align="justify">The following data provides details of faculty working in various  departments of our college. Click the <b>Faculty Image</b> to view his profile.</p>
+  <table align='center' cellpadding='5' border='3' bgcolor='lightyellow'>
+   <tr bgcolor="silver">
+    <th>Fac. ID</th>
+    <th>Faculty Name</th>
+    <th>Designation</th>
+    <th>Department</th>
+    <th>Fac. Image</th>
+   </tr>
+   <tr>
+    <th>1001</th>
+    <th>P. Suresh Varma</th>
+    <th> Head of Dept</th>
+    <th>Computer Science</th>
+    <th><a href="images\fac1.jpg"><img src="images\fac1.jpg" width="30" height="30"> </a></th>
+   </tr>
+   <tr>
+    <th>1002</th>
+    <th>S. Ramesh Sarma</th>
+    <th> Professor</th>
+    <th>Computer Science</th>
+    <th><a href="images\fac2.jpg"><img src="images\fac2.jpg" width="30" height="30"> </a></th>
+   </tr>
+  </table>
+ </body>
+</html>
